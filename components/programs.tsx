@@ -5,7 +5,7 @@ export function Programs() {
   const programs = [
     {
       title: "Reunificación Familiar",
-      stats: "500+ personas atendidas | 387 reunificadas",
+      stats: "1000+ personas atendidas | 600 reunificadas",
       description:
         "Hasta la fecha, el programa de centro de atención para habitante de calle ha logrado resultados significativos: más de 500 personas atendidas, 387 reunificadas con sus familias en distintas ciudades como Bogotá, Bucaramanga, Medellín, Barranquilla, Montería, Manizales, Cali, Riohacha e incluso en el vecino país de Venezuela.",
       image: "/reunificacion-familiar.jpeg",
@@ -14,7 +14,7 @@ export function Programs() {
     },
     {
       title: "Reinserción a la Sociedad",
-      stats: "27 personas resocializadas con éxito",
+      stats: "45 personas resocializadas con éxito",
       description:
         "Uno de los ejes más importantes de nuestro programa en el Centro de Atención a Personas en Situación de Calle es la reinserción social, entendida como el proceso de acompañar a los beneficiarios en la construcción de un proyecto de vida digno y sostenible. Gracias a este trabajo, hemos logrado que más de 27 habitantes de calle se resocialicen con éxito, vinculándose a actividades laborales, educativas y familiares que fortalecen su autonomía y sentido de pertenencia en la comunidad.",
       image: "/reinsercion-sociedad.jpeg",
@@ -23,7 +23,7 @@ export function Programs() {
     },
     {
       title: "Vivienda Digna",
-      stats: "75 personas albergadas actualmente",
+      stats: "80 personas albergadas actualmente",
       description:
         "En materia de vivienda y protección, el Centro de Atención brinda actualmente albergue digno a 75 personas en situación de calle, garantizando un espacio seguro, alimentación, atención en salud y acompañamiento psicosocial. Este servicio no solo responde a una necesidad inmediata de techo y bienestar, sino que también se convierte en la base para iniciar procesos de resocialización, rehabilitación y reintegración social, orientados a que cada beneficiario pueda proyectar una vida autónoma y estable.",
       image: "/vivienda-digna.jpeg",

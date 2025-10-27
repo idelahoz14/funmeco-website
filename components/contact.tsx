@@ -123,7 +123,7 @@ export function Contact() {
                   <div>
                     <h4 className="font-semibold mb-1">Ubicación</h4>
                     <p className="text-muted-foreground">
-                      Centro de Atención FUNMECO
+                      Santa Marta
                       <br />
                       Colombia
                     </p>

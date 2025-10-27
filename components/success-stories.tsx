@@ -19,7 +19,7 @@ export function SuccessStories() {
       title: "La fuerza de voluntad y el apoyo adecuado pueden transformar vidas",
       story:
         "Luis llegó al centro enfrentando una dura batalla contra las drogas y una relación fracturada con su familia. Con dedicación y el respaldo de nuestro equipo, logró superar su adicción, reconectar con sus seres queridos y adquirir nuevas habilidades a través de nuestros cursos. Hoy, Luis es un ejemplo de resiliencia y esperanza.",
-      image: "/hombre-trabajando-taller.jpg",
+      image: "/luis.jpeg",
     },
     {
       name: "Ángel",
@@ -40,7 +40,7 @@ export function SuccessStories() {
       title: "Cuando la voluntad se entrega a Dios y se recibe el apoyo necesario",
       story:
         "Hace 4 meses José llegó al centro buscando una nueva oportunidad para su vida. Con constancia, fe y el acompañamiento recibido, ha logrado avanzar en un proceso de recuperación que refleja su valentía y su deseo profundo de renacer. Hoy, su historia nos recuerda que siempre es posible levantarse y volver a empezar con esperanza.",
-      image: "/hombre-orando-esperanza.jpg",
+      image: "/jose.jpeg",
     },
   ]
 
