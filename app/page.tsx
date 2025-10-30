@@ -4,6 +4,7 @@ import { About } from "@/components/about"
 import { Programs } from "@/components/programs"
 import { SuccessStories } from "@/components/success-stories"
 import { Contact } from "@/components/contact"
+import { TrabajaConNosotros } from "@/components/trabaja-con-nosotros"
 import { Footer } from "@/components/footer"
 import { WhatsAppButton } from "@/components/whatsapp-button"
 
@@ -16,6 +17,7 @@ export default function Home() {
       <Programs />
       <SuccessStories />
       <Contact />
+      <TrabajaConNosotros />
       <Footer />
       <WhatsAppButton />
     </main>
